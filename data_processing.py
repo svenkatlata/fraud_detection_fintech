@@ -1,6 +1,5 @@
 print('adding all the data processing code related to fraud detection.')
 
-
 a = 7
 b = 5
 
